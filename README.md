@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on a professor reviews website on my university professors<br>🌱 I’m currently learning React.js
+<h1 align="center">Hi 👋, I'm Nitay Vilner</h1>
+<h3 align="center">A second year computer science student in Ben Gurion University.</h3>
+
+## 💫 About Me:
+🔭 I’m currently working on a professor reviews website on my university professors<br>🌱 I’m currently learning React.js<br>💻 I’m a passionate developer<br>🤝 I’m looking for opportunity in software development.
 
 
 ## 🌐 Socials:
