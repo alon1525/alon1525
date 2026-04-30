@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🎓 I recently graduated with a B.Sc. in Computer Science from Ben-Gurion University.<br>
 💻 I’m currently working as a Full-Stack Developer at a pre-launch startup, specializing in building cross-platform mobile and web applications.<br>
-⚽ I'm developing **Score365**, a social sports prediction app featuring real-time leaderboards, deterministic fallback logic, and complex state management.<br>
+⚽ I'm developing **Zporti**, a social sports prediction app featuring real-time leaderboards, deterministic fallback logic, and complex state management.<br>
 🦉 I’m also architecting **Kardingo**, a gamified language learning application.<br>
 ⚡ Outside of code: I speak conversational Japanese (N3), play a lot of souls-likes and tactical shooters, and spend my downtime perfecting sourdough bread and Japanese curry.<br>
 
